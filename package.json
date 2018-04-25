@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leokaplan/testeserver/issues"
   },
-  "homepage": "https://github.com/leokaplan/testeserver#readme"
+  "homepage": "https://github.com/leokaplan/testeserver#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
